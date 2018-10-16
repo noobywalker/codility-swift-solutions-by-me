@@ -17,7 +17,7 @@ Clone repository or download and unzip archive. Open the playground in XCode 8.2
 
 ## View the code directly:
 
-* [BinaryGap](https://github.com/alexbrie/Codility-Swift-3/blob/master/CodilityTests.playground/Pages/BinaryGap.xcplaygroundpage/Contents.swift)
+* [BinaryGap](https://github.com/noobywalker/codility-swift-solutions-by-me/blob/master/codility-solutions.playground/Sources/BinaryGap.swift)
 * [CyclicRotation](#)
 * [FrogJump](#)
 * [OddOccurencesInArray](#)
