@@ -4,24 +4,20 @@ import XCTest
 public class BinaryGapTests: XCTestCase {
 
     public func testVerifySolution() {
-        verify(value: BinaryGap.solution(1041), expected: 5)
-        verify(value: BinaryGap.solution(15), expected: 0)
-        verify(value: BinaryGap.solution(32), expected: 0)
-        verify(value: BinaryGap.solution(1), expected: 0)
-        verify(value: BinaryGap.solution(5), expected: 1)
-        verify(value: BinaryGap.solution(32), expected: 0)
+        XCTAssertEqual(BinaryGap.solution(1041), 5)
+        XCTAssertEqual(BinaryGap.solution(15), 0)
+        XCTAssertEqual(BinaryGap.solution(32), 0)
+        XCTAssertEqual(BinaryGap.solution(1), 0)
+        XCTAssertEqual(BinaryGap.solution(5), 1)
+        XCTAssertEqual(BinaryGap.solution(32), 0)
     }
 
-    func verify(value: Int,
-                expected: Int,
-                file: StaticString = #file,
-                line: UInt = #line) {
-        XCTAssertEqual(
-            value,
-            expected,
-            "got \(value) expected \(expected)",
-            file: file,
-            line: line
-        )
+    public func testBinaryGapsFromString() {
+        XCTAssertEqual(BinaryGap.binaryGaps(from: "10001001"), 3)
+        XCTAssertEqual(BinaryGap.binaryGaps(from: "101001"), 2)
+        XCTAssertEqual(BinaryGap.binaryGaps(from: "10100"), 1)
+        XCTAssertEqual(BinaryGap.binaryGaps(from: "10000"), 0)
+        XCTAssertEqual(BinaryGap.binaryGaps(from: "11111"), 0)
+        XCTAssertEqual(BinaryGap.binaryGaps(from: "110011000001"), 5)
     }
 }

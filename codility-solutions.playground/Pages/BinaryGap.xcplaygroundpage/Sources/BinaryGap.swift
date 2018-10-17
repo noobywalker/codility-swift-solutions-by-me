@@ -21,6 +21,10 @@ public struct BinaryGap {
 
     public static func solution(_ N : Int) -> Int {
         let binaryString = String(N, radix: 2)
+        return binaryGaps(from: binaryString)
+    }
+
+    public static func binaryGaps(from binaryString: String) -> Int {
         var zeros = 0
         var binaryGaps = 0
         for item in binaryString {
