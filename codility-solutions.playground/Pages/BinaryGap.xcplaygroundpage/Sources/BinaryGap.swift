@@ -19,8 +19,8 @@ import Foundation
 
 public struct BinaryGap {
 
-    public static func solution(_ N : Int) -> Int {
-        let binaryString = String(N, radix: 2)
+    public static func solution(_ n : Int) -> Int {
+        let binaryString = String(n, radix: 2)
         return binaryGaps(from: binaryString)
     }
 
