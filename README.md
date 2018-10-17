@@ -13,11 +13,11 @@ Included solutions for problems in
 * https://codility.com/programmers/lessons/99-future_training/
 
 ## Use: 
-Clone repository or download and unzip archive. Open the playground in XCode 8.2 or more recent. The result for the tests is displayed in the right column of the playground, you might need to drag it a bit to expand it.
+Clone repository or download and unzip archive. Open the playground in XCode 9.2 or more recent. The result for the tests is displayed in the right column of the playground, you might need to drag it a bit to expand it.
 
 ## View the code directly:
 
-* [BinaryGap](https://github.com/noobywalker/codility-swift-solutions-by-me/blob/master/codility-solutions.playground/Sources/BinaryGap.swift)
+* [BinaryGap](https://github.com/noobywalker/codility-swift-solutions-by-me/blob/master/codility-solutions.playground/Pages/BinaryGap.xcplaygroundpage/Sources/BinaryGap.swift)
 * [CyclicRotation](#)
 * [FrogJump](#)
 * [OddOccurencesInArray](#)
