@@ -18,9 +18,9 @@ Clone repository or download and unzip archive. Open the playground in XCode 9.2
 ## View the code directly:
 
 * [BinaryGap](https://github.com/noobywalker/codility-swift-solutions-by-me/blob/master/codility-solutions.playground/Pages/BinaryGap.xcplaygroundpage/Sources/BinaryGap.swift)
-* [CyclicRotation](#)
+* [CyclicRotation](https://github.com/noobywalker/codility-swift-solutions-by-me/blob/master/codility-solutions.playground/Pages/CyclicRotation.xcplaygroundpage/Sources/CyclicRotation.swift)
+* [OddOccurencesInArray](https://github.com/noobywalker/codility-swift-solutions-by-me/blob/master/codility-solutions.playground/Pages/OddOccurrencesInArray.xcplaygroundpage/Sources/OddOccurrencesInArray.swift)
 * [FrogJump](#)
-* [OddOccurencesInArray](#)
 * [PermMissingElem](#)
 * [TapeEquilibrium](#)
 * [FrogRiverOne](#)
