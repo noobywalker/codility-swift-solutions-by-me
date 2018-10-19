@@ -4,5 +4,8 @@
         <page name='BinaryGap'/>
         <page name='CyclicRotation'/>
         <page name='OddOccurrencesInArray'/>
+        <page name='PermMissingElem'/>
+        <page name='FrogJmp'/>
+        <page name='TapeEquilibrium'/>
     </pages>
 </playground>
