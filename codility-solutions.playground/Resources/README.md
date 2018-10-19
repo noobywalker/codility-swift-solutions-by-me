@@ -12,6 +12,7 @@ Clone repository or download and unzip archive. Open the playground in XCode 9.2
 * [PermMissingElem](https://github.com/noobywalker/codility-swift-solutions-by-me/blob/master/codility-solutions.playground/Pages/PermMissingElem.xcplaygroundpage/Contents.swift)
 * [FrogJump](https://github.com/noobywalker/codility-swift-solutions-by-me/blob/master/codility-solutions.playground/Pages/FrogJmp.xcplaygroundpage/Contents.swift)
 * [TapeEquilibrium](https://github.com/noobywalker/codility-swift-solutions-by-me/blob/master/codility-solutions.playground/Pages/TapeEquilibrium.xcplaygroundpage/Contents.swift)
+* [PermCheck](https://github.com/noobywalker/codility-swift-solutions-by-me/blob/master/codility-solutions.playground/Pages/PermCheck.xcplaygroundpage/Contents.swift)
 * [FrogRiverOne](#)
 * [MissingInteger](#)
 * [MaxCounters](#)
